@@ -1,0 +1,32 @@
+p {
+	color:"green";
+	font-family="Courier";
+	border-radius: 8px;
+	border: 4px solid red;
+}
+div {
+	font-size: 20px;
+	border:5px dotted green;
+}
+.Bob {
+	border:10px solid green;
+	border-radius: 11px;
+	
+}
+div ul {
+
+border:10px solid blue;
+border-radius: 8px;
+}
+a {
+	text-decoration:none;
+ 	color:blue;
+}
+a:hover {
+font-weight;
+color:red;
+}
+	
+img {
+border: 5px solid black;
+}
